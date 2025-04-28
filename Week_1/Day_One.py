@@ -13,7 +13,10 @@ inthi nimma preethiya shishya,
 # Using triple quotes (""") to print multiple lines together.
 # No need for \n explicitly when using triple quotes.
 
+
 # --------------------------------------------------------------------------------------------#
+
+
 
 #2 📌 Purpose: Creating variables of different types and checking their types.
 
@@ -32,7 +35,9 @@ print(is_coding, type(is_coding))
 # type() function shows the data type of the variable.
 # Python dynamically assigns data types.
 
+
 # --------------------------------------------------------------------------------------------#
+
 
 
 #3 📌 Purpose: Taking input from user, converting types, and printing output.
@@ -66,7 +71,9 @@ else:
 # if-elif-else blocks are used for multiple conditions.
 # Conditions checked sequentially until the first match.
 
+
 # --------------------------------------------------------------------------------------------#
+
 
 
 #4 📌 Purpose: Based on age, give advice on operating a machine.
@@ -88,7 +95,10 @@ else:
 
 # Real-life based conditions created for better understanding.
 
+
 # --------------------------------------------------------------------------------------------#
+
+
 
 #5 📌 Purpose: Perform basic mathematical operations between two numbers.
 
@@ -111,6 +121,10 @@ print("Power of two numbers is:", a ** b)
 #   / true division
 #   % modulus (remainder)
 #   ** exponentiation (power)
+
+
+# --------------------------------------------------------------------------------------------#
+
 
 
 #6 📌 Purpose: Create a simple calculator that does selected operations.
@@ -136,3 +150,5 @@ else:
 
 # Dynamic input and operation selection.
 # Clean error handling for invalid operations.
+
+# --------------------------------------------------------------------------------------------#
